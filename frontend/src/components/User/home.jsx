@@ -204,7 +204,7 @@ function Home() {
         {/* Hero */}
         <section className="text-center mt-20">
           <h1 className="text-5xl font-bold text-orange-500">
-            Welcome to DemoAcademy
+            Welcome to CourseHaven
           </h1>
 
           <p className="mt-4 text-gray-300 text-lg">
