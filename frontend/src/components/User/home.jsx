@@ -355,7 +355,7 @@ function Home() {
 
           <div>
             <h2 className="text-xl font-bold text-orange-500">
-              DemoAcademy
+              CourseHaven
             </h2>
 
             <p className="mt-3">Follow us on</p>
