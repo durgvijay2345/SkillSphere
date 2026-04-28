@@ -116,7 +116,7 @@ function Home() {
           <div className="flex items-center gap-2">
             <img src={logo} alt="logo" className="w-8 h-8 rounded-full" />
             <h1 className="text-2xl font-bold text-orange-500">
-              DemoAcademy
+           CourseHaven
             </h1>
           </div>
 
@@ -286,7 +286,7 @@ function Home() {
         {/* Why Choose */}
         <section className="mt-20 text-center">
           <h2 className="text-3xl font-bold text-orange-400 mb-10">
-            Why Choose DemoAcademy?
+            Why Choose CourseHaven?
           </h2>
 
           <div className="grid md:grid-cols-3 gap-6">
@@ -381,17 +381,17 @@ function Home() {
 
           <div>
             <h3 className="font-semibold text-white">Connect</h3>
-            <p>YouTube: DemoTube</p>
-            <p>Telegram: DemoGram</p>
-            <p>GitHub: DemoHub</p>
+            <p>YouTube: YouTube</p>
+            <p>Telegram: Instagram</p>
+            <p>GitHub: GitHub</p>
           </div>
 
           <div>
             <h3 className="font-semibold text-white">
-              © 2026 DemoAcademy
+              © 2026 CourseHaven
             </h3>
             <p>All rights reserved.</p>
-            <p>Designed by Demo Team</p>
+            <p>Designed by My Team</p>
           </div>
         </footer>
       </div>
